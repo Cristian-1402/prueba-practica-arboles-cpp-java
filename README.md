@@ -7,7 +7,7 @@ Este proyecto implementa un sistema de gestión académica para la Universidad T
 La implementación está desarrollada íntegramente en **C++** siguiendo los principios de programación orientada a objetos, haciendo uso obligatorio de **punteros** para la gestión de memoria y **recursividad** para las operaciones fundamentales del árbol.
 
 ## Estructura del Proyecto
-
+```
 prueba-practica-arboles-cpp-java/
 ├── Estudiante.h          # Definición de la clase Estudiante
 ├── Estudiante.cpp        # Implementación de métodos de Estudiante
@@ -15,7 +15,7 @@ prueba-practica-arboles-cpp-java/
 ├── ArbolBST.cpp          # Implementación de todas las operaciones del BST
 ├── main.cpp              # Menú interactivo y punto de entrada del programa
 └── README.md             # Documentación del proyecto
-
+```
 
 ## Clases y Módulos
 
