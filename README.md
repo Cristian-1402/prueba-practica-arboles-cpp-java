@@ -9,12 +9,12 @@ La implementación está desarrollada íntegramente en **C++** siguiendo los pri
 ## Estructura del Proyecto
 
 prueba-practica-arboles-cpp-java/
-├── Estudiante.h # Definición de la clase Estudiante
-├── Estudiante.cpp # Implementación de métodos de Estudiante
-├── ArbolBST.h # Definición de la clase ArbolBST y estructura Nodo
-├── ArbolBST.cpp # Implementación de todas las operaciones del BST
-├── main.cpp # Menú interactivo y punto de entrada del programa
-└── README.md # Documentación del proyecto
+├── Estudiante.h          # Definición de la clase Estudiante
+├── Estudiante.cpp        # Implementación de métodos de Estudiante
+├── ArbolBST.h            # Definición de la clase ArbolBST y estructura Nodo
+├── ArbolBST.cpp          # Implementación de todas las operaciones del BST
+├── main.cpp              # Menú interactivo y punto de entrada del programa
+└── README.md             # Documentación del proyecto
 
 
 ## Clases y Módulos
